@@ -3,7 +3,7 @@
 - I received the B.E. degree from Jiangxi Normal University, Nanchang, China, in 2022.
 - I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China. 
 - My research interests include computer vision and multimedia processing.
-
+- For more, click here https://kinshingpoon.github.io
 <!--
 **kinshingpoon/kinshingpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
