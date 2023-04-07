@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 🧐 About Me
-[![](https://img.shields.io/badge/Connect-Linkedin-0077b5)]([https://www.linkedin.com/in/jiancheng-pan/](https://www.linkedin.cn/incareer/in/jiancheng-pan-903409192))
+[![](https://img.shields.io/badge/Connect-Linkedin-0077b5)]([https://www.linkedin.com/in/jiancheng-pan-903409192/](https://www.linkedin.cn/incareer/in/jiancheng-pan-903409192))
 - 🔭 I received the B.E. degree from Jiangxi Normal University, Nanchang, China, in 2022.
 - 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China. 
 - 💬 My research interests include computer vision and multimedia processing.
