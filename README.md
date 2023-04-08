@@ -6,6 +6,7 @@
 - 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China. 
 - 💬 My research interests include computer vision and multimedia processing.
 - 📫 Email me at: jianchengpan7@gmail.com
+- ⚡ My personal blog and notes: https://blog-roan-psi.vercel.app
 - 👯 For more about me, click here https://kinshingpoon.github.io
 <!--
 **kinshingpoon/kinshingpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
