@@ -1,9 +1,8 @@
-# 👨🏻‍💻 [Anurag Singh](https://anuragsingh.dev) [@ashleymavericks](https://anuragsingh.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ashleymavericks?style=social)](https://twitter.com/KINSHINGP)
-[![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/kinshingpoon/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jianchengpan7@gmail.com)](mailto:jianchengpan7@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/jianchengpan/)
-## Hi there 👋
+# 👨🏻‍💻 [Jiancheng Pan](https://kinshingpoon.github.io) [@kinshingpoon](https://kinshingpoon.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kinshingpoon?style=social)](https://twitter.com/KINSHINGP)
+[![GitHub followers](https://img.shields.io/github/followers/kinshingpoon?label=Follow&style=social)](https://github.com/kinshingpoon/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-jianchengpan7@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jianchengpan7@gmail.com)](mailto:jianchengpan7@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jianchengpan/)](https://www.linkedin.com/in/jianchengpan/)
 ### 🧐 About Me
 <!-- [![](https://img.shields.io/badge/Connect-Twitter-0077b5)](https://twitter.com/KINSHINGP)
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/jianchengpan/) -->
