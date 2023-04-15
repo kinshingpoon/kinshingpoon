@@ -20,7 +20,7 @@
 - ⚡ My personal blog and notes: [https://blog-kinshingpoon.vercel.app/](https://blog-kinshingpoon.vercel.app/)
 - 👯 For more about me, click here: [https://kinshingpoon.github.io](https://kinshingpoon.github.io)
 
-## Star History
+### 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=kinshingpoon/kinshingpoon,kinshingpoon/SWAN-pytorch,kinshingpoon/X-VLM-pytorch&type=Timeline)](https://star-history.com/#kinshingpoon/kinshingpoon&kinshingpoon/SWAN-pytorch&kinshingpoon/X-VLM-pytorch&Timeline)
 
