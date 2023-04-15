@@ -19,6 +19,8 @@
 - 📫 Email me at: jianchengpan7@gmail.com
 - ⚡ My personal blog and notes: [https://blog-kinshingpoon.vercel.app/](https://blog-kinshingpoon.vercel.app/)
 - 👯 For more about me, click here: [https://kinshingpoon.github.io](https://kinshingpoon.github.io)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Date)](https://star-history.com/#kinshingpoon/kinshingpoon&kinshingpoon/SWAN-pytorch&kinshingpoon/X-VLM-pytorch&Timeline)
 <!--
 **kinshingpoon/kinshingpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
