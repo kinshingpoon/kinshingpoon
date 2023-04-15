@@ -11,11 +11,12 @@
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkinshingpoon&logo=leetcode&logoColor=yellow)](https://leetcode.com/kinshingpoon/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=kinshingpoon&color=red&style=flat)](https://komarev.com/ghpvc/?username=kinshingpoon)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hua1995116&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 ### 🧐 About Me
 <!-- [![](https://img.shields.io/badge/Connect-Twitter-0077b5)](https://twitter.com/KINSHINGP)
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/jianchengpan/) -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kinshingpoon&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 - 🔭 I received the B.E. degree from Jiangxi Normal University, Nanchang, China, in 2022.
 - 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China. 
 - 💬 My research interests include computer vision and multimedia processing.
