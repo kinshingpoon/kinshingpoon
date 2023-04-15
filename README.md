@@ -26,7 +26,8 @@
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kinshingpoon/kinshingpoon,kinshingpoon/SWAN-pytorch,kinshingpoon/X-VLM-pytorch&type=Timeline)](https://star-history.com/#kinshingpoon/kinshingpoon&kinshingpoon/SWAN-pytorch&kinshingpoon/X-VLM-pytorch&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=kinshingpoon/SWAN-pytorch,kinshingpoon/X-VLM-pytorch&type=Timeline)](https://star-history.com/#kinshingpoon/SWAN-pytorch&kinshingpoon/X-VLM-pytorch&Timeline)
+
 
 <!--
 **kinshingpoon/kinshingpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
