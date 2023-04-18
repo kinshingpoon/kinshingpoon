@@ -15,7 +15,7 @@
 <!-- [![](https://img.shields.io/badge/Connect-Twitter-0077b5)](https://twitter.com/KINSHINGP)
 [![](https://img.shields.io/badge/Connect-Linkedin-0077b5)](https://www.linkedin.com/in/jianchengpan/) -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kinshingpoon&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 
 - 🔭 I received the B.E. degree from Jiangxi Normal University, Nanchang, China, in 2022.
 - 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China. 
@@ -26,7 +26,10 @@
 
 ### 🌟 Star History <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kinshingpoon/SWAN-pytorch,kinshingpoon/X-VLM-pytorch&type=Timeline)](https://star-history.com/#kinshingpoon/SWAN-pytorch&kinshingpoon/X-VLM-pytorch&Timeline)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kinshingpoon&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=kinshingpoon/SWAN-pytorch,kinshingpoon/X-VLM-pytorch&type=Timeline)](https://star-history.com/#kinshingpoon/SWAN-pytorch&kinshingpoon/X-VLM-pytorch&Timeline) -->
 
 
 <!--
