@@ -21,7 +21,7 @@
 - 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China. 
 - 💬 My research interests include computer vision and multimedia processing.
 - 📫 Email me at: jianchengpan7@gmail.com
-- ⚡ My personal blog and notes: [blog-roan-psi.vercel.app](https://blog-roan-psi.vercel.app/)
+- ⚡ My personal blog and notes: [https://blog-kinshingpoon.vercel.app/](https://blog-kinshingpoon.vercel.app/)
 - 👯 For more about me, click here: [kinshingpoon.github.io](https://kinshingpoon.github.io)
 
 ### 🌟 Star History <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
