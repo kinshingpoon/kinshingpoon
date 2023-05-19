@@ -19,7 +19,7 @@
 
 - 🔭 I received the B.E. degree from Jiangxi Normal University, Nanchang, China, in 2022.
 - 🌱 I am currently pursuing the M.E. degree with the Zhejiang University of Technology, Hangzhou, China. 
-- 💬 My research interests include computer vision (CV) and multimedia processing (Vision and Language, Multi-Modal Learning).
+- 💬 My research interests include computer vision and multimedia processing (Vision and Language, Multi-Modal Learning).
 - 📫 Email me at: jianchengpan7@gmail.com
 - ⚡ My personal blog and notes: [jianchengpan.space](https://www.jianchengpan.space/)
 - 👯 For more about me, click here: [kinshingpoon.github.io](https://kinshingpoon.github.io)
