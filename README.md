@@ -23,7 +23,7 @@
 - 📫 Email me at: jianchengpan7@gmail.com
 - ⚡ My personal blog and notes: [jianchengpan.space](https://www.jianchengpan.space/)
 - 👯 For more about me, click here: [kinshingpoon.github.io](https://kinshingpoon.github.io)
-- 📄 Click to get my resume: [JianchengP_CV](https://kinshingpoon.github.io/JianchengP_CV.pdf)
+<!-- - 📄 Click to get my resume: [JianchengP_CV](https://kinshingpoon.github.io/JianchengP_CV.pdf) -->
 
 ### 🌟 Star History <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
