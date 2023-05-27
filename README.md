@@ -22,7 +22,7 @@
 - 💬 My research interests include computer vision and multimedia processing (Vision and Language, Multi-Modal Learning).
 - 📫 Email me at: jianchengpan7@gmail.com
 - ⚡ My personal blog and notes: [jianchengpan.space](https://www.jianchengpan.space/)
-- 👯 For more about me, click here: [kinshingpoon.github.io](https://kinshingpoon.github.io)
+- 👯 For more about me, click here: [jianchengpan.com](https://www.jianchengpan.com)
 <!-- - 📄 Click to get my resume: [JianchengP_CV](https://kinshingpoon.github.io/JianchengP_CV.pdf) -->
 
 ### 🌟 Star History <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
