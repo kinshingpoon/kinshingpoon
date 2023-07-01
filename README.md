@@ -1,4 +1,4 @@
-# 👨🏻‍💻 [Jiancheng Pan](https://kinshingpoon.github.io) [@kinshingpoon](https://kinshingpoon.github.io)
+# 👨🏻‍💻 [Jiancheng Pan](https://kinshingpoon.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KINSHINGP?style=social)](https://twitter.com/KINSHINGP)
 [![GitHub followers](https://img.shields.io/github/followers/kinshingpoon?label=Follow&style=social)](https://github.com/kinshingpoon/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-jianchengpan7@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jianchengpan7@gmail.com)](mailto:jianchengpan7@gmail.com)
